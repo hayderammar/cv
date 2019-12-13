@@ -1,0 +1,5 @@
+*{margin: 0px;padding:0px;}
+#fullName {color: red;}
+ul { padding: 10px;list-style: none;}
+ul li{float: left;margin: 5px; padding: 10px;}
+.header1{background-color: lightblue;}
